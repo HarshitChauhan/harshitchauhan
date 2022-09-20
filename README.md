@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit Kumar</h1>
-<h3 align="center">A self-taught, passionate and fast-learner full-stack developer from India, 🇮🇳 🌎. Passionately working as a Software Engineer 👨‍🎓.</h3>
+<h3 align="center">A self-taught, passionate and fast-learner full-stack developer from India, 🇮🇳 🌎.<br/> Passionately working as a Software Engineer 👨‍🎓.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitchauhan&label=Profile%20views&color=0e75b6&style=flat" alt="harshitchauhan" /> </p>
 
