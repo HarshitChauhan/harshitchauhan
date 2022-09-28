@@ -50,15 +50,15 @@
  
 <br/>
 
-## GitHub Contribution Stats 📊
+<h2 align="center"> GitHub Contribution Stats 📊 </h2> 
+
 
 [![Harshit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=HarshitChauhan&&theme=xcode)](https://github.com/HarshitChauhan)
 
- 
-<div style="margin: 10px">
-<img src="https://github-readme-stats.vercel.app/api?username=harshitchauhan&show_icons=true&count_private=true&hide_border=true" align="left" width="40%" height="40%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitchauhan&hide_border=true&layout=compact" align="left" width="40%" height="40%" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitchauhan&" alt="harshitchauhan" width="40%" height="40%"/>
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; margin-bottom: 20px;">
+<img src="https://github-readme-stats.vercel.app/api?username=harshitchauhan&show_icons=true&count_private=true&hide_border=true" align="center" width="33%" height="40%" style="flex-grow:1; display:flex; flex-direction: column;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitchauhan&hide_border=true&layout=compact" align="center" width="33%" height="33%" style="flex-grow:1; display:flex; flex-direction: column;" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitchauhan&" alt="harshitchauhan" width="33%" height="40%" style="flex-grow:1; display:flex; flex-direction: column;"/>
 </div>
 
 <br/>
